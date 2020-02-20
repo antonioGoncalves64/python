@@ -2,7 +2,7 @@
 
 * [Apresentação](README.md)
 * [Computadores, algoritmo e programas](computadores-algoritmo-e-programas.md)
-* [Sintaxe e semântica](sintaxe-e-semantica.md)
+* [Sintaxe e semantica](sintaxe-e-semantica.md)
 * [Expressões](expressoes.md)
 * [Tipos atómicos de informação](tipos-atomicos-de-informacao.md)
 * [Variáveis e atribuição](variaveis-e-atribuicao.md)
